@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Facial Cleansing Brush",
+    "brand": "NågraCoola",
+    "category": "beauty-personal-care",
+    "description": "Waterproof and rechargeable facial cleansing brush for cleansing, exfoliating, and massaging. Suitable for men and women.",
+    "price": 34.99,
+    "image": "images/beauty-personal-care/facial-cleansing-brush.jpg"
+  },
+  {
+    "name": "LED Vanity Mirror",
+    "brand": "HUONUL",
+    "category": "beauty-personal-care",
+    "description": "Trifold vanity mirror with LED lights, 2X/3X/10X magnification, touch control, and dual power supply.",
+    "price": 27.99,
+    "image": "images/beauty-personal-care/led-vanity-mirror.jpg"
+  },
+  {
+    "name": "Hair Dryer",
+    "brand": "Lovebest",
+    "category": "beauty-personal-care",
+    "description": "Professional ionic hair dryer with fast drying, low noise design, lightweight body, and high-speed airflow.",
+    "price": 69.99,
+    "image": "images/beauty-personal-care/hair-dryer.jpg"
+  },
+  {
+    "name": "Makeup Organizer",
+    "brand": "UFORU",
+    "category": "beauty-personal-care",
+    "description": "Makeup organizer for vanity with two large drawers, cosmetic display case, brush holders, and easy storage for skincare and perfume.",
+    "price": 33.99,
+    "image": "images/beauty-personal-care/makeup-organizer.jpg"
+  },
+  {
+    "name": "Electric Toothbrush",
+    "brand": "Oral-B",
+    "category": "beauty-personal-care",
+    "description": "Rechargeable electric toothbrush with three cleaning modes, visual pressure sensor, two brush heads, and travel case.",
+    "price": 109.99,
+    "image": "images/beauty-personal-care/electric-toothbrush.jpg"
+  },
+  {
+    "name": "Minimalist Table Lamp",
+    "brand": "NEWSEE",
+    "category": "home-living",
+    "description": "Modern cordless table lamp set with rechargeable battery, portable LED lighting for bedroom, dining room, restaurants, and camping.",
+    "price": 29.99,
+    "image": "images/home-living/minimalist-table-lamp.jpg"
+  },
+  {
+    "name": "Decorative Vase",
+    "brand": "YACSNBF",
+    "category": "home-living",
+    "description": "Modern hand-blown glass vase with elegant design for flowers, home decoration, and table centerpieces.",
+    "price": 79.8,
+    "image": "images/home-living/decorative-vase.jpg"
+  },
+  {
+    "name": "Memory Foam Seat Cushion",
+    "brand": "BlissTrends",
+    "category": "home-living",
+    "description": "Memory foam ergonomic seat cushion with velvet cover designed for office chairs, cars, and long sitting comfort.",
+    "price": 21.98,
+    "image": "images/home-living/memory-foam-seat-cushion.jpg"
+  },
+  {
+    "name": "Wall Clock",
+    "brand": "Mee 2ou",
+    "category": "home-living",
+    "description": "Large decorative wall clock with light sensor, glow-in-the-dark design, and silent non-ticking movement.",
+    "price": 47.99,
+    "image": "images/home-living/wall-clock.jpg"
+  },
+  {
+    "name": "Air Purifier",
+    "brand": "Oneisall",
+    "category": "home-living",
+    "description": "Large room air purifier with washable HEPA filters designed to reduce pet dander, odors, smoke, dust, and allergens.",
+    "price": 80.98,
+    "image": "images/home-living/air-purifier.jpg"
+  },
+  {
+    "name": "Stainless Steel Water Bottle",
+    "brand": "Blockhütte",
+    "category": "kitchen-essentials",
+    "description": "Vacuum insulated stainless steel water bottle designed to keep drinks hot or cold for extended periods.",
+    "price": 29.97,
+    "image": "images/kitchen-essentials/stainless-steel-water-bottle.jpg"
+  },
+  {
+    "name": "Bamboo Cutting Board",
+    "brand": "Royal Craft Wood",
+    "category": "kitchen-essentials",
+    "description": "Premium bamboo cutting board set with deep juice grooves and side handles for meal prep, chopping, and serving.",
+    "price": 36.97,
+    "image": "images/kitchen-essentials/bamboo-cutting-board.jpg"
+  },
+  {
+    "name": "Digital Kitchen Scale",
+    "brand": "GGQ",
+    "category": "kitchen-essentials",
+    "description": "Digital rechargeable kitchen scale with stainless steel surface, LCD display, and precise measurements for cooking and baking.",
+    "price": 15.28,
+    "image": "images/kitchen-essentials/digital-kitchen-scale.jpg"
+  },
+  {
+    "name": "Glass Storage Container",
+    "brand": "Cirhy",
+    "category": "kitchen-essentials",
+    "description": "Hard shell storage organizer with dividers designed for glassware, crystal glasses, and kitchen storage.",
+    "price": 35.99,
+    "image": "images/kitchen-essentials/glass-storage-container.jpg"
+  },
+  {
+    "name": "Coffee Grinder",
+    "brand": "CIRCLE JOY",
+    "category": "kitchen-essentials",
+    "description": "Portable manual coffee grinder with adjustable settings and ceramic burr for coffee preparation at home or travel.",
+    "price": 17.98,
+    "image": "images/kitchen-essentials/coffee-grinder.jpg"
+  },
+  {
+    "name": "Pet Grooming Brush",
+    "brand": "LetsFeed",
+    "category": "pet-supplies",
+    "description": "3-in-1 steam grooming brush with self-cleaning spray and mist function designed for removing loose pet hair.",
+    "price": 17.99,
+    "image": "images/pet-supplies/pet-grooming-brush.jpg"
+  },
+  {
+    "name": "Pet Water Fountain",
+    "brand": "ECCONUT",
+    "category": "pet-supplies",
+    "description": "Large stainless steel automatic pet water fountain with a wide drinking area and water level window.",
+    "price": 59.99,
+    "image": "images/pet-supplies/pet-water-fountain.jpg"
+  },
+  {
+    "name": "Dog Bed",
+    "brand": "BedStill",
+    "category": "pet-supplies",
+    "description": "Comfortable donut-style pet bed with removable washable cover and soft plush material.",
+    "price": 45.97,
+    "image": "images/pet-supplies/dog-bed.jpg"
+  },
+  {
+    "name": "Cat Scratching Post",
+    "brand": "Woochpet",
+    "category": "pet-supplies",
+    "description": "Interactive scratching post with hanging toys and durable scratching surface for indoor cats.",
+    "price": 39.99,
+    "image": "images/pet-supplies/cat-scratching-post.jpg"
+  },
+  {
+    "name": "Pet Food Container",
+    "brand": "IRIS USA",
+    "category": "pet-supplies",
+    "description": "Airtight food container with wheels designed to keep pet food fresh and easy to access.",
+    "price": 29.99,
+    "image": "images/pet-supplies/pet-food-container.jpg"
+  },
+  {
+    "name": "Wireless Charging Pad",
+    "brand": "TNDAJI",
+    "category": "electronics-accessories",
+    "description": "15W magnetic wireless charger compatible with iPhone and AirPods featuring fast charging technology.",
+    "price": 12.59,
+    "image": "images/electronics-accessories/wireless-charging-pad.jpg"
+  },
+  {
+    "name": "USB-C Hub",
+    "brand": "Anker",
+    "category": "electronics-accessories",
+    "description": "7-in-1 multi-port USB-C hub with HDMI, USB ports, SD/TF card reader, and fast charging support.",
+    "price": 25.99,
+    "image": "images/electronics-accessories/usb-c-hub.jpg"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "brand": "BolaButty",
+    "category": "electronics-accessories",
+    "description": "Portable waterproof Bluetooth speaker with long battery life and wireless connectivity for indoor and outdoor use.",
+    "price": 19.79,
+    "image": "images/electronics-accessories/bluetooth-speaker.jpg"
+  },
+  {
+    "name": "Phone Stand",
+    "brand": "Meetuo",
+    "category": "electronics-accessories",
+    "description": "Adjustable and foldable phone stand for desk use with portable design and universal compatibility.",
+    "price": 8.53,
+    "image": "images/electronics-accessories/phone-stand.jpg"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "brand": "JBL",
+    "category": "electronics-accessories",
+    "description": "True wireless earbuds with noise cancelling, pure bass sound, clear calls, and water resistance.",
+    "price": 64.95,
+    "image": "images/electronics-accessories/wireless-earbuds.jpg"
+  }
+]
